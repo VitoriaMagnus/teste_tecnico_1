@@ -1,10 +1,10 @@
-# teste_tecnico_01
+# Teste Técnico 01 - Escribo
 
 Implemente uma função que receba um número inteiro positivo e retorne o
 somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
 número passado.
 
-* Getting Started
+<h1>Getting Started</h1>
 
 Em seu prompt de comando:
 * $ git clone Ctrl + ins
